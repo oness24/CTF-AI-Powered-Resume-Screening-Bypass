@@ -296,9 +296,7 @@ Git, Agile, Scrum, TDD, System Design
 
 **Evidence of Success:**
 1. Application status changed from "Under Review" to "Shortlisted"
-2. Received interview invitation/confirmation
-3. **Flag captured:** `FLAG{pr0mpt_1nj3ct10n_byp4ss3d}` (example)
-4. Dashboard showed elevated candidate status
+
 
 **Why It Worked:**
 - AI agent processed hidden text as part of decision context
